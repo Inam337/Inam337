@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Inam Malik</h1>
-<h3 align="center">Senior Software Engineer, Front End · Full-Stack JavaScript · Prompt Engineer</h3>
+<h3 align="center">Senior Software Engineer | Agentic AI Applications Development | User Experience Expert | Front End Development</h3>
 
 <p align="center">
   <a href="mailto:inam.337@gmail.com"><img src="https://img.shields.io/badge/Email-inam.337%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
